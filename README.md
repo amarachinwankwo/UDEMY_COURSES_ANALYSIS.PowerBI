@@ -17,27 +17,28 @@ The data used for this project was a secondary data source from the web https://
 ## DATA CLEANING AND TRANSFORMATION
 
 Power Query editor was used for the cleaning and PowerBI was used for the visualization.
-&nbsp;For the Business Finance sheet, the applied step include:
+       For the Business Finance sheet, the applied step include:
 
 &#8226; Removed 13 empty columns.
 
-&nbsp; For the Graphic Design sheet, the applied steps includes:
+       For the Graphic Design sheet, the applied steps includes:
 
 &#8226; Removed 13 empty columns.
 
 &#8226; Filtered by removing empty from Customer_id column.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For the Musical Instrument sheet, the applied steps includes:
+ 
+       For the Musical Instrument sheet, the applied steps includes:
 
 &#8226; Removed 13 empty columns.
 
 &#8226; Filtered by removing empty from the column_id column.
 
-&nbsp;For the Web Development sheet, the applied steps include:
+       For the Web Development sheet, the applied steps include:
 
 &#8226; Filtered, by removing empty from the column_id column.
 
-The next step in the data cleaning and transformation was to Append the 4 sheets as one sheet and l named it “Udemy Courses_Consolidated”. The applied steps includes:
+### The next step in the data cleaning and transformation
+was to Append the 4 sheets as one sheet and l named it “Udemy Courses_Consolidated”. The applied steps includes:
 
 &#8226; Splitted “published_timestamp” column containing date and time by space delimiter.
 
@@ -57,7 +58,7 @@ The next step in the data cleaning and transformation was to Append the 4 sheets
 
 &#8226; Changed a column type to date type.
 
-ANALYSIS
+## ANALYSIS
 
 &#8226; 12 million people subscribed for the four subjects between the year 2011-2017
 
