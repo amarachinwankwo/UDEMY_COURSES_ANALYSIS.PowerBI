@@ -17,6 +17,7 @@ The data used for this project was a secondary data source from the web https://
 ## DATA CLEANING AND TRANSFORMATION
 
 Power Query editor was used for the cleaning and PowerBI was used for the visualization.
+
        For the Business Finance sheet, the applied step include:
 
 &#8226; Removed 13 empty columns.
