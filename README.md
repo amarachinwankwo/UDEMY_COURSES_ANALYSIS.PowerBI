@@ -1,6 +1,6 @@
 # UDEMY COURSES ANALYSIS
 
-### OBJECTIVES 
+## OBJECTIVES 
 
 &#8226; To identify the total number of subscribers for the 4 subjects between the year 2011-2017. 
 
@@ -14,7 +14,7 @@
 
 The data used for this project was a secondary data source from the web https://docs.google.com/spreadsheets/d/1Y7-G7-u5QQHX1At8mTwJDtMb4c92ZCal/edit?usp=drivesdk&ouid=108851604302942673557&rtpof=true&sd=true which comprises four different sheets for the 4 subjects which are: Business Finance,Graphic Design, Musical Instrument and Web Development. 
 
-DATA CLEANING AND TRANSFORMATION
+## DATA CLEANING AND TRANSFORMATION
 
 Power Query editor was used for the cleaning and PowerBI was used for the visualization.
 &nbsp;For the Business Finance sheet, the applied step include:
@@ -27,7 +27,7 @@ Power Query editor was used for the cleaning and PowerBI was used for the visual
 
 &#8226; Filtered by removing empty from Customer_id column.
 
-&nbsp; For the Musical Instrument sheet, the applied steps includes:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For the Musical Instrument sheet, the applied steps includes:
 
 &#8226; Removed 13 empty columns.
 
